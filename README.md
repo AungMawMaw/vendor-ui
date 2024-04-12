@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # With Docker
 
 This examples shows how to use Docker with Next.js based on the [deployment documentation](https://nextjs.org/docs/deployment#docker-image). Additionally, it contains instructions for deploying to Google Cloud Run. However, you can use any container-based deployment host.
@@ -65,4 +66,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 # vendor-ui
+=======
+>>>>>>> 59e2208209bafc59ca4eb286c0b44582d8b5473c
 # vendor-ui
